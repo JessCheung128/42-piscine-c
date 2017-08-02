@@ -1,0 +1,7 @@
+Credentials cache: API:BE9CEB43-EC14-4F18-8558-74AA3FAE631D
+        Principal: akhercha@42.FR
+
+  Issued                Expires               Principal
+Jul  4 15:10:15 2017  Jul 11 15:10:15 2017  krbtgt/42.FR@42.FR
+Jul  4 15:29:19 2017  Jul 11 15:10:15 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  4 15:40:45 2017  Jul 11 15:10:15 2017  host/vgs-fn1.42.fr@42.FR

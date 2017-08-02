@@ -1,0 +1,10 @@
+#!/bin/sh
+type=$(file ./a)
+forty_two=$(tail -b 42 ./a)
+
+if [ $type = '42 file' ] && [ $forty_two = '42']
+then
+	echo "it is !"
+else
+	echo "nope"
+fi
